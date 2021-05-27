@@ -2,8 +2,8 @@
 
 A contact form is an essential part of any business website or developer portfolio. It provides an easy way for users to get in touch with the business or individual, so they can reach their customers. Users simply need to fill out the form with their contact information and a short message and click submit. The business can then view the contact form entries in the database to then get back to the users. 
 
-Bonus feature #1: Have the form send an email to the form owner upon submit.
-Bonus feature #2: Setup reCaptcha to help prevent spam.
+* Bonus feature #1: Have the form send an email to the form owner upon submit.
+* Bonus feature #2: Setup reCaptcha to help prevent spam.
 
 ## Wireframes
 ![Contact form wireframe image](./images/Contact-form-wireframe.png)
