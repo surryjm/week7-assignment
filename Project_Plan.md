@@ -6,7 +6,7 @@ A contact form is an essential part of any business website or developer portfol
 * Bonus item #2: Setup reCaptcha to help prevent spam.
 
 ## Wireframes
-![Contact form wireframe image](./images/Contact-form-wireframe.png)
+![Contact form wireframes](./images/Wireframes.png)
 
 ## Dependencies
 
